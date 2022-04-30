@@ -1,7 +1,7 @@
 # Compound-Interest-Calculator
 ## Description 📜
 
-The basic idea of this calculator is to provide the amount and Compound Interest by providing principal amount, rate of interest, time taken using HTML , CSS , Javascript.
+The basic idea of this calculator is to Specify the amount and Compound Interest by providing principal amount, rate of interest, time taken using HTML , CSS , Javascript.
 
 
 <hr>
